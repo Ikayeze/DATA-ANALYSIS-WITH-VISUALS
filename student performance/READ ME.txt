@@ -1,0 +1,9 @@
+
+this is a kaggle dataset.exploratory data analysis was carried out to answer the following questions
+
+
+1, Does one particular gender excel another in maths, reading, writing?
+2, Does practice help to excel scores ? 
+3, Does one particular race oversmarts others? 
+4, Show relationship between students academic performance and parent's level of education
+5, create a new column called percent with the overall percent scored by each student
